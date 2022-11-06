@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347155696831",
+    "project_id": "pixako-fd400",
+    "storage_bucket": "pixako-fd400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347155696831:android:b588fd8131d44c8e93ca0a",
+        "android_client_info": {
+          "package_name": "com.pixakotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347155696831-sssjh4de9iu8a4rekq62ami50td5g2jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQtAVz0rT2c6bG9Q9yOSLlLBG5gdOxn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347155696831-sssjh4de9iu8a4rekq62ami50td5g2jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
